@@ -29,7 +29,7 @@ This tool is useful for educational and testing purposes, particularly for creat
    ```bash
    git clone https://github.com/B9yn8/activation-plist-generator.git
    cd activation-plist-generator
-  ```
+  ````
 
 2. Run the script:
 
