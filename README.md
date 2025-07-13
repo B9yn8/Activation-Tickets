@@ -27,7 +27,7 @@ This tool is useful for educational and testing purposes, particularly for creat
 
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/B9yn8/activation-plist-generator.git
+   git clone https://github.com/B9yn8/Activation-Tickets.git
    cd activation-plist-generator
   
 
