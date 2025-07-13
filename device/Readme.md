@@ -13,18 +13,16 @@ We recommend using our customized or trusted fork of **libimobiledevice** for th
 ### 📥 Installation Guide
 
 Follow the steps below to install the recommended version:
-
-```bash
-# Clone the repository
+```bach
+# 📥 Clone the repository
 git clone https://github.com/B9yn8/libimobiledevice.git
 
-# Navigate to the directory
+# 📂 Navigate into the cloned directory
 cd libimobiledevice
 
-# Build and install (on Linux/macOS)
-./autogen.sh
-make
-sudo make install
+# 📁 Copy the required files into your project
+# Assuming your project has a 'device' folder:
+cp -r * /device
 ```
 
 ✅ Make sure to also install dependencies such as:
@@ -32,8 +30,8 @@ sudo make install
 * `libusbmuxd`
 * `libplist`
 * `libimobiledevice-glue`
-
-> For Windows users: Precompiled binaries or WSL (Windows Subsystem for Linux) are recommended.
+* `Drivers By 3utools`
+* `iTunes From Officiel Website (Do not Use Microsoft Store)`
 
 ---
 
