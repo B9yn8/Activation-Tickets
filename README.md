@@ -29,8 +29,8 @@ This tool is useful for educational and testing purposes, particularly for creat
    ```bash
    git clone https://github.com/B9yn8/activation-plist-generator.git
    cd activation-plist-generator
-  ```
-```
+  
+
 2. Run the script:
 
    * Double-click `Generate Activation Files.bat`
@@ -158,9 +158,9 @@ If you believe any content violates your rights, please contact us directly and 
 ---
 
 © 2025 **BELLI AIO UNLOCKER** – All Rights Reserved
-For support: [@ZP_H3](https://t.me/ZP_H3)
-GitHub: [https://github.com/B9yn8](https://github.com/B9yn8)
-Website: [https://belliactivator.vercel.app](https://belliactivator.vercel.app)
-YouTube: [https://www.youtube.com/@BELLIDEV](https://www.youtube.com/@BELLIDEV)
-OfficialBoT: [@newSignalBOBOT](https://t.me/newSignalBOBOT)
+* For support: [@ZP_H3](https://t.me/ZP_H3)
+* GitHub: [https://github.com/B9yn8](https://github.com/B9yn8)
+* Website: [https://belliactivator.vercel.app](https://belliactivator.vercel.app)
+* YouTube: [https://www.youtube.com/@BELLIDEV](https://www.youtube.com/@BELLIDEV)
+* OfficialBoT: [@newSignalBOBOT](https://t.me/newSignalBOBOT)
 
